@@ -31,3 +31,4 @@ def e_main():
     else:
         print('邮件发送成功')
 e_main()
+print('恭喜发财')
