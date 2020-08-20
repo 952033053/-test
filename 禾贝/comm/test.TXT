@@ -1,0 +1,3 @@
+2020-08-19 15:52:01,482 - 接口日志 - WARNING - 请求方式填写错误 - loging_a.py - warning
+2020-08-19 15:59:06,459 - 接口日志 - WARNING - 请求方式填写错误 - loging_a.py - warning
+2020-08-19 16:26:43,699 - 接口日志 - WARNING - 接口断言错啦 - loging_a.py - warning
